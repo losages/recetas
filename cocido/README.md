@@ -2,9 +2,9 @@
 
 ## Ingredientes
 - Garbanzos (50 g/persona)
-- Carne: gallina, hueso de jamón, tocino, [morcilla]
+- Carne: gallina, hueso de jamón, tocino, morcilla..
 - Bola: miga de pan, 1-2 huevos, chorizo, perejil, harina
-- Verdura: 1-2 repollos, [acelga]
+- Verdura: 1-2 repollos o acelga
 
 ## Preparación
 1. Poner la noche anterior a remojo con agua y sal los garbanzos (y la carne, si no fuera fresca)

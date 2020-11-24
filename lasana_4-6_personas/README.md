@@ -27,14 +27,14 @@ Bechamel:
 6. Cuando esté templado (fuego al 5), añadir la harina y remover
 7. Ir añadiendo la leche poco a poco e ir removiendo
 8. Cuando se ha añadido toda la leche, dejar que dé un hervor. Poner un poco de sal
-9. Mientras se hace la bechamel, poner las capas de lasaña en agua templada (remover de vez en cuando). Poner en una fuente de horno:
-    9.1. Capa de bechamel
-    9.2. Capa de lasaña
-    9.3. Capa de carne
-    9.4. Capa de bechamel
-    9.5. Capa de lasaña
-    9.6. Capa de carne
-    9.7. Capa de lasaña
-    9.8. Capa de bechamel
-    9.9. Queso rallado
+9. Mientras se hace la bechamel, poner las capas de lasaña en agua templada (remover de vez en cuando). Poner en una fuente de horno:  
+    9.1. Capa de bechamel  
+    9.2. Capa de lasaña  
+    9.3. Capa de carne  
+    9.4. Capa de bechamel  
+    9.5. Capa de lasaña  
+    9.6. Capa de carne  
+    9.7. Capa de lasaña  
+    9.8. Capa de bechamel  
+    9.9. Queso rallado  
 10. Cocer al horno a 220ºC 10 minutos y 3-5 minutos gratinando

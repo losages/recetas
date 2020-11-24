@@ -8,8 +8,7 @@
 - Puerro (la hoja verde)
 - Pimienta blanca y negra
 - Sal
-- Laurel
-Proporción:
+- Laurel. Proporción:
     * 2 partes de zumo de naranja
     * 1 parte de aceite
     * 1 parte de vinagre

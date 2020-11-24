@@ -4,8 +4,7 @@
 - Boletus (edulis, pinícola, aereus)
 - Vinagre de Cava
 - Aceite. Acidez 0,1 (oliva)
-- Zumo de naranja
-Proporción:
+- Zumo de naranja. Proporción:
     * 2 partes de zumo de naranja
     * 1 parte de aceite
     * 1 parte de vinagre
