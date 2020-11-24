@@ -14,7 +14,6 @@
 * [Flameado de Plátanos](flameado_de_platanos/README.md)
 * [Flan de Café (Ana Ólvega)](flan_de_cafe_ana_olvega/README.md)
 * [Flan de Huevo](flan_de_huevo/README.md)
-* [Gazpacho de Cañete](chapter/README.md)
 * [Gazpacho de Cañete](gazpacho_de_canete/README.md)
 * [Lasaña (4-6 personas)](lasana_4-6_personas/README.md)
 * [Macarrones a la Boloñesa 4 personas (Laura)](macarrones_a_la_bolonesa_4_personas_laura/README.md)
@@ -39,7 +38,7 @@
 * [Tarta de Queso (Ana Ólvega)](tarta_de_queso_ana_olvega/README.md)
 * [Tarta de Queso al Horno](tarta_de_queso_al_horno/README.md)
 * [Tarta de Queso en Frío](tarta_de_queso_en_frio/README.md)
-* [Tiramisú (Pili S.L.)](chapter/README.md)
+* [Tiramisú (Pili S.L.)](tiramisu_pili_sl/README.md)
 * [Tiramisú](tiramisu/README.md)
 * [Trufas](trufas/README.md)
 
