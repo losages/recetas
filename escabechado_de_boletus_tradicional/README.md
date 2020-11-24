@@ -1,3 +1,7 @@
+---
+modified: 2020-11-24T19:32:39+01:00
+---
+
 # Escabechado de Boletus Tradicional
 
 ## Ingredientes
@@ -16,6 +20,7 @@
 ## Preparación
 1. Poner a cocer aceite y vinagre a fuego medio hasta que pierda el olor a vinagre
 2. Añadir el caldo de de verduras y los boletus laminados, sal al gusto, puerros, pimienta blanca y negra y laurel. Hervir a fuego medio 5 minutos
+
 Consejos:
 - Al boletus nunca se le pone ajo
 - No rehidratar el boletus
