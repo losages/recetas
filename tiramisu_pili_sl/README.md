@@ -1,5 +1,5 @@
 ---
-modified: 2020-11-24T19:39:02+01:00
+modified: 2020-11-24T19:39:33+01:00
 ---
 
 # Tiramisú (Pili S.L.)
@@ -14,9 +14,9 @@ modified: 2020-11-24T19:39:02+01:00
 - Chocolate rayado (duro, para rayar con rayadora)
 
 ## Preparación
-1. Montar la nata, añadir el queso y la cuajada
-2. Preparar café. Añadir un chorrito de Baileys
-3. Colocar una capa de bizcochos, previamente mojados en café (que no empapen demasiado)
+1. Montar la nata, añadir el queso y la cuajada  
+2. Preparar café. Añadir un chorrito de Baileys  
+3. Colocar una capa de bizcochos, previamente mojados en café (que no empapen demasiado)  
 4. Hacer capas:  
     4.1 Capa de nata  
     4.2 Capa de bizcochos  
