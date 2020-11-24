@@ -1,3 +1,7 @@
+---
+modified: 2020-11-24T19:31:36+01:00
+---
+
 # Cocido
 
 ## Ingredientes
@@ -13,4 +17,5 @@
 4. Después se pasa por harina, se sofríe y se añade al cocido (cocer 30 minutos)
 5. Al mismo tiempo o un poco antes, poner a cocer la verdura
 6. Con el caldo sobrante, se añaden fideos y se hace sopa
+
 Servir primero la sopa, después los garbanzos y en tercer lugar la carne y la bola cortada en trozos
