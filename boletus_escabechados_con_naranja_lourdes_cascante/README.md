@@ -1,3 +1,7 @@
+---
+modified: 2020-11-24T19:30:53+01:00
+---
+
 # Boletus Escabechados con Naranja (Lourdes Cascante)
 
 ## Ingredientes
@@ -15,4 +19,5 @@
 3. Hervir 5 minutos a fuego medio
 4. Añadir sal y pimienta blanca
 5. Dejar enfriar y conservar en la nevera
+
 Así puede conservarse en la nevera hasta 1-2 meses
