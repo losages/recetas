@@ -3,6 +3,6 @@
         "custom-favicon"
     ],
     "pluginsConfig": {
-        "favicon": "favicon.ico"
+        "favicon": "_book/gitbook/images/favicon.ico"
     }
 }
