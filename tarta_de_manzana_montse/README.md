@@ -1,3 +1,7 @@
+---
+modified: 2020-11-24T19:37:29+01:00
+---
+
 # Tarta de Manzana (Montse)
 
 ## Ingredientes
@@ -10,7 +14,7 @@
 ## Preparación
 1. Batir todo junto en la batidora
 2. Rociar el molde con mantequilla
-3. Partir la manzana en cuartos y a capas finas
+3. Partir la manzana en cuartos y a capas finas  
 4. Colocar:  
     4.1 Una capa de manzana  
     4.2 Una capa de masa  
