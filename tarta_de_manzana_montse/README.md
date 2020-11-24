@@ -1,5 +1,5 @@
 ---
-modified: 2020-11-24T19:37:58+01:00
+modified: 2020-11-24T19:38:11+01:00
 ---
 
 # Tarta de Manzana (Montse)
@@ -21,5 +21,5 @@ modified: 2020-11-24T19:37:58+01:00
     4.3 Una capa de manzana  
     4.4 Una capa de masa  
     4.5 Una capa de manzana  
-5. Colocar al horno 45-50 minutos a 150-175ºC
+5. Colocar al horno 45-50 minutos a 150-175ºC  
 6. Una vez enfriada, se puede poner mermelada de albaricoque o melocotón
