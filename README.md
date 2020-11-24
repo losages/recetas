@@ -1,104 +1,44 @@
-![Build Status](https://gitlab.com/pages/gitbook/badges/master/build.svg)
+<a href="#índice"><img src="cover.jpg"/></a>
 
----
+# Índice
 
-Example [GitBook] website using GitLab Pages.
+* [Tarta de Manzana (Montse)](tarta_de_manzana_montse/README.md)
+* [Tarta de Queso al Horno](tarta_de_queso_al_horno/README.md)
+* [Tarta de Queso en Frío](tarta_de_queso_en_frio/README.md)
+* [Flan de Huevo](flan_de_huevo/README.md)
+* [Tiramisú](tiramisu/README.md)
+* [Roscón](roscon/README.md)
+* [Tarta de Manzana (¿Mari?)](tarta_de_manzana_mari/README.md)
+* [Pollo asado (Arguiñano)](pollo_asado_arguinano/README.md)
+* [Redondo de Ternera](redondo_de_ternera/README.md)
+* [Pastel de Puerros](pastel_de_puerros/README.md)
+* [Flameado de Plátanos](flameado_de_platanos/README.md)
+* [Flan de Café (Ana Ólvega)](flan_de_cafe_ana_olvega/README.md)
+* [Tarta de Queso (Ana Ólvega)](tarta_de_queso_ana_olvega/README.md)
+* [Gazpacho de Cañete](chapter/README.md)
+* [Rosquillos de sartén](rosquillos_de_sarten/README.md)
+* [Rosquillos de sartén (Angelines T.)](rosquillos_de_sarten_angelines_t/README.md)
+* [Bizcocho de Yogurt (Blanca S.L.)](bizcocho_de_yogurt_blanca_sl/README.md)
+* [Tiramisú (Pili S.L.)](chapter/README.md)
+* [Solomillo al hojaldre](solomillo_al_hojaldre/README.md)
+* [Cocido](cocido/README.md)
+* [Trufas](trufas/README.md)
+* [Churros](churros/README.md)
+* [Base de pizza](base_de_pizza/README.md)
+* [Magdalenas (MCarmen A.)](magdalenas_mcarmen_a/README.md)
+* [Paella 40 personas (Ólvega)](paella_40_personas_olvega/README.md)
+* [Quesada (Mili)](quesada_mili/README.md)
+* [Empanada 4-6 personas](empanada_4-6_personas/README.md)
+* [Macarrones a la Boloñesa 4 personas (Laura)](macarrones_a_la_bolonesa_4_personas_laura/README.md)
+* [Crepes (6)](crepes_6/README.md)
+* [Lasaña (4-6 personas)](lasana_4-6_personas/README.md)
+* [Salmón Encebollado con Arroz Blanco (4 personas, 25 minutos, 410 cal)](salmon_encebollado_con_arroz_blanco_4_personas,_25_minutos,_410_cal/README.md)
+* [Pochas](pochas/README.md)
+* [Muffins (6 personas)](muffins_6_personas/README.md)
+* [Brioche con Pepitas de Chocolate (6 personas)](brioche_con_pepitas_de_chocolate_6_personas/README.md)
+* [Boletus Escabechados con Naranja (Lourdes Cascante)](boletus_escabechados_con_naranja_lourdes_cascante/README.md)
+* [Escabechado de Boletus Tradicional](escabechado_de_boletus_tradicional/README.md)
+* [Seta de cardo al pilpil de naranja](seta_de_cardo_al_pilpil_de_naranja/README.md)
+* [Rocas de Arroz Inflado (4 personas, Arguiñano)](rocas_de_arroz_inflado_4_personas,_arguinano/README.md)
+* [Magdalenas (8 raciones)](magdalenas_8_raciones/README.md)
 
-Learn more about GitLab Pages at https://pages.gitlab.io and the official
-documentation https://docs.gitlab.com/ce/user/project/pages/.
-
----
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [GitLab CI](#gitlab-ci)
-- [Building locally](#building-locally)
-- [GitLab User or Group Pages](#gitlab-user-or-group-pages)
-- [Did you fork this project?](#did-you-fork-this-project)
-- [Troubleshooting](#troubleshooting)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## GitLab CI
-
-This project's static Pages are built by [GitLab CI][ci], following the steps
-defined in [`.gitlab-ci.yml`](.gitlab-ci.yml):
-
-```yaml
-# requiring the environment of NodeJS 8.9.x LTS (carbon)
-image: node:8.9
-
-# add 'node_modules' to cache for speeding up builds
-cache:
-  paths:
-    - node_modules/ # Node modules and dependencies
-
-before_script:
-  - npm install gitbook-cli -g # install gitbook
-  - gitbook fetch latest # fetch latest stable version
-  - gitbook install # add any requested plugins in book.json
-  #- gitbook fetch pre # fetch latest pre-release version
-  #- gitbook fetch 2.6.7 # fetch specific version
-
-# the 'pages' job will deploy and build your site to the 'public' path
-pages:
-  stage: deploy
-  script:
-    - gitbook build . public # build to public path
-  artifacts:
-    paths:
-      - public
-  only:
-    - master # this job will affect only the 'master' branch
-```
-
-## Building locally
-
-To work locally with this project, you'll have to follow the steps below:
-
-1. Fork, clone or download this project
-1. [Install][] GitBook `npm install gitbook-cli -g`
-1. Fetch GitBook's latest stable version `gitbook fetch latest`
-1. Preview your project: `gitbook serve`
-1. Add content
-1. Generate the website: `gitbook build` (optional)
-1. Push your changes to the master branch: `git push`
-
-Read more at GitBook's [documentation][].
-
-## GitLab User or Group Pages
-
-To use this project as your user/group website, you will need one additional
-step: just rename your project to `namespace.gitlab.io`, where `namespace` is
-your `username` or `groupname`. This can be done by navigating to your
-project's **Settings**.
-
-Read more about [user/group Pages][userpages] and [project Pages][projpages].
-
-## Did you fork this project?
-
-If you forked this project for your own use, please go to your project's
-**Settings** and remove the forking relationship, which won't be necessary
-unless you want to contribute back to the upstream project.
-
-## Troubleshooting
-
-1. CSS is missing! That means two things:
-
-    Either that you have wrongly set up the CSS URL in your templates, or
-    your static generator has a configuration option that needs to be explicitly
-    set in order to serve static assets under a relative URL.
-
-----
-
-Forked from @virtuacreative
-
-[ci]: https://about.gitlab.com/gitlab-ci/
-[GitBook]: https://www.gitbook.com/
-[host the book]: https://gitlab.com/pages/gitbook/tree/pages
-[install]: http://toolchain.gitbook.com/setup.html
-[documentation]: http://toolchain.gitbook.com
-[userpages]: https://docs.gitlab.com/ce/user/project/pages/introduction.html#user-or-group-pages
-[projpages]: https://docs.gitlab.com/ce/user/project/pages/introduction.html#project-pages
