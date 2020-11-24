@@ -1,5 +1,5 @@
 ---
-modified: 2020-11-24T19:37:29+01:00
+modified: 2020-11-24T19:37:58+01:00
 ---
 
 # Tarta de Manzana (Montse)
@@ -12,8 +12,8 @@ modified: 2020-11-24T19:37:29+01:00
 - 1/2 sobre de levadura Royal
 
 ## Preparación
-1. Batir todo junto en la batidora
-2. Rociar el molde con mantequilla
+1. Batir todo junto en la batidora  
+2. Rociar el molde con mantequilla  
 3. Partir la manzana en cuartos y a capas finas  
 4. Colocar:  
     4.1 Una capa de manzana  
