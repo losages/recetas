@@ -1,3 +1,7 @@
+---
+modified: 2020-11-24T19:30:31+01:00
+---
+
 # Bizcocho de Yogurt (Blanca S.L.)
 
 ## Ingredientes
@@ -10,4 +14,5 @@
 
 ## Preparación
 1. Batirlo todo (bien batido) y ponerlo al horno a 160ºC 35 minutos
+
 Sugerencias: se le puede añadir: chocolate, manzana...
