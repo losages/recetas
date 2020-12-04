@@ -1,5 +1,5 @@
 ---
-modified: 2020-11-24T19:30:31+01:00
+modified: 2020-12-04T22:18:51+01:00
 ---
 
 # Bizcocho de Yogurt (Blanca S.L.)
@@ -13,6 +13,13 @@ modified: 2020-11-24T19:30:31+01:00
 - 1 sobre levadura Royal
 
 ## Preparación
+1° huevos
+2° yogur
+3°harina
+4° azúcar
+5°aceite
+6°levadura
+7° manzana o chocolate
 1. Batirlo todo (bien batido) y ponerlo al horno a 160ºC 35 minutos
 
 Sugerencias: se le puede añadir: chocolate, manzana...
