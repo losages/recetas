@@ -1,5 +1,5 @@
 ---
-modified: 2020-12-04T22:18:51+01:00
+modified: 2020-12-06T21:28:13+01:00
 ---
 
 # Bizcocho de Yogurt (Blanca S.L.)
@@ -23,3 +23,5 @@ modified: 2020-12-04T22:18:51+01:00
 1. Batirlo todo (bien batido) y ponerlo al horno a 160ºC 35 minutos
 
 Sugerencias: se le puede añadir: chocolate, manzana...
+
+![Image](./image_picker4789999143512286227.jpg)
