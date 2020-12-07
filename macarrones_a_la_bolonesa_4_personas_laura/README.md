@@ -1,3 +1,7 @@
+---
+modified: 2020-12-07T13:21:58+01:00
+---
+
 # Macarrones a la Boloñesa 4 personas (Laura)
 
 ## Ingredientes
@@ -19,3 +23,4 @@
 5. Hervir 10 minutos
 6. Escurrir los macarrones y lavarlos con agua fría
 7. Añadir el sofrito de verduras y tomate a los macarrones
+![Image](./image_picker8151342721359076881.jpg)
