@@ -1,7 +1,3 @@
----
-modified: 2020-12-24T20:59:31+01:00
----
-
 # Summary
 
 * [Índice](README.md)

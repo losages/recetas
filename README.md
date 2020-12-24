@@ -23,6 +23,7 @@
 * [Muffins (6 personas)](muffins_6_personas/README.md)
 * [Paella 40 personas (Ólvega)](paella_40_personas_olvega/README.md)
 * [Pastel de Puerros](pastel_de_puerros/README.md)
+* [Pavo con nata](pavo_con_nata/README.md)
 * [Pochas](pochas/README.md)
 * [Pollo asado (Arguiñano)](pollo_asado_arguinano/README.md)
 * [Quesada (Mili)](quesada_mili/README.md)
