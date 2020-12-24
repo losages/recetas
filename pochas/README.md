@@ -1,7 +1,3 @@
----
-modified: 2020-11-24T19:35:19+01:00
----
-
 # Pochas
 
 ## Preparación

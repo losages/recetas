@@ -1,8 +1,3 @@
----
-created: 2020-12-24T20:45:13+01:00
-modified: 2020-12-24T20:57:50+01:00
----
-
 # Pavo con Nata
 
 ## Ingredientes

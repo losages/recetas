@@ -1,7 +1,3 @@
----
-modified: 2020-11-24T19:39:33+01:00
----
-
 # Tiramisú (Pili S.L.)
 
 ## Ingredientes

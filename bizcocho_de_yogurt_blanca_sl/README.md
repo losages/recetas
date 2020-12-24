@@ -1,7 +1,3 @@
----
-modified: 2020-12-06T21:28:13+01:00
----
-
 # Bizcocho de Yogurt (Blanca S.L.)
 
 ## Ingredientes

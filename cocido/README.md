@@ -1,7 +1,3 @@
----
-modified: 2020-11-24T19:31:36+01:00
----
-
 # Cocido
 
 ## Ingredientes

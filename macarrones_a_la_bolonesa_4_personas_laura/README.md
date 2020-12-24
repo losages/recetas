@@ -1,7 +1,3 @@
----
-modified: 2020-12-07T13:22:17+01:00
----
-
 # Macarrones a la Boloñesa 4 personas (Laura)
 
 ## Ingredientes

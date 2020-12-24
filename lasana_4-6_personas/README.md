@@ -1,7 +1,3 @@
----
-modified: 2020-12-07T13:24:32+01:00
----
-
 # Lasaña (4-6 personas)
 
 ## Ingredientes

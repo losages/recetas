@@ -1,7 +1,3 @@
----
-modified: 2020-11-24T19:38:11+01:00
----
-
 # Tarta de Manzana (Montse)
 
 ## Ingredientes

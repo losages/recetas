@@ -1,7 +1,3 @@
----
-modified: 2020-11-24T19:30:53+01:00
----
-
 # Boletus Escabechados con Naranja (Lourdes Cascante)
 
 ## Ingredientes

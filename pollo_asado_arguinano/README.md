@@ -1,7 +1,3 @@
----
-modified: 2020-11-24T19:35:33+01:00
----
-
 # Pollo asado (Arguiñano)
 
 ## Ingredientes
