@@ -9,4 +9,9 @@
 - Vino blanco o rosado
 
 ## Preparación
+1. Hacer sofrito con pimiento y cebolla
+2. Sellar el pavo (freír muy poco tiempo)
+3. Cocer con el vino
+4. Añadir nata, pasas y orejones
+
 ![Image](./image_picker9072254078718548715.jpg)
