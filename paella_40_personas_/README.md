@@ -1,4 +1,4 @@
-# Paella 40 personas (Ólvega)
+# Paella 40 personas (Ó.)
 
 ## Ingredientes
 - 1 kg de anillas de calamar

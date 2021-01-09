@@ -1,4 +1,4 @@
-# Flan de Café (Ana Ólvega)
+# Flan de Café (Ana Ó.)
 
 ## Ingredientes
 - 1 litro de nata líquida

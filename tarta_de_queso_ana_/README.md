@@ -1,4 +1,4 @@
-# Tarta de Queso (Ana Ólvega)
+# Tarta de Queso (Ana Ó.)
 
 ## Ingredientes
 - 4 huevos

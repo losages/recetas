@@ -1,8 +1,6 @@
 {
     "plugins": [
-        "custom-favicon"
     ],
     "pluginsConfig": {
-        "favicon": "images/icon.ico"
     }
 }

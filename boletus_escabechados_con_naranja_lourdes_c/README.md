@@ -1,4 +1,4 @@
-# Boletus Escabechados con Naranja (Lourdes Cascante)
+# Boletus Escabechados con Naranja (Lourdes C.)
 
 ## Ingredientes
 - Boletus (edulis, pinícola, aereus)
