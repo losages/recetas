@@ -8,6 +8,7 @@
 - 250 ml de agua
 - 1 cucharadita de sal
 - 1 huevo para pintar
+
 Relleno:
 - 2 cebollas
 - 1 pimiento rojo

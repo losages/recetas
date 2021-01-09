@@ -10,6 +10,7 @@
 * [Cocido](cocido/README.md)
 * [Crepes (6)](crepes_6/README.md)
 * [Empanada 4-6 personas](empanada_4-6_personas/README.md)
+* [☑️ Empanadillas](empanadillas/README.md)
 * [Escabechado de Boletus Tradicional](escabechado_de_boletus_tradicional/README.md)
 * [Flameado de Plátanos](flameado_de_platanos/README.md)
 * [Flan de Café (Ana Ó.)](flan_de_cafe_ana_o/README.md)
