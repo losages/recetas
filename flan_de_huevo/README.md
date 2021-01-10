@@ -10,3 +10,5 @@
 1. Poner un molde con caramelo y encima todo lo anterior batido
 2. Opción 1: colocarlo al baño María en la olla durante 9 minutos
 3. Opción 2: colocar al horno a 180ºC de temperatura durante 1 hora. Tapar con albal si se quema
+
+![](photo_2021-01-10_19-17-26.jpg)
