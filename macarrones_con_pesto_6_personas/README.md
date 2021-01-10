@@ -1,4 +1,4 @@
-# Macarrones con Pesto (6 personas)
+# ☑️ Macarrones con Pesto (6 personas)
 
 ## Ingredientes
 - 400 g de macarrones

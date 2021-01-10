@@ -1,4 +1,4 @@
-# Bizcocho de Yogurt (Blanca S.L.)
+# ☑️ Bizcocho de Yogurt (Blanca S.L.)
 
 ## Ingredientes
 - 1 yogurt natural

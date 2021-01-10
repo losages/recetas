@@ -1,4 +1,4 @@
-# Macarrones a la Boloñesa 4 personas (Laura)
+# ☑️ Macarrones a la Boloñesa 4 personas (Laura)
 
 ## Ingredientes
 - 1/2 cebolla

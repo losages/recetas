@@ -1,4 +1,4 @@
-# Pavo con Nata
+# ☑️ Pavo con Nata
 
 ## Ingredientes
 - Sofrito: pimiento y cebolla

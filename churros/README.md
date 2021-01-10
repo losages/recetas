@@ -1,8 +1,4 @@
----
-modified: 2021-01-10T20:07:43+01:00
----
-
-# :ballot_box_with_check: Churros
+# ☑️ Churros
 
 ## Ingredientes
 - 250 g de harina

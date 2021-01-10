@@ -1,4 +1,4 @@
-# Lasaña (4-6 personas)
+# ☑️ Lasaña (4-6 personas)
 
 ## Ingredientes
 - Placas de lasaña precocidas (16)
