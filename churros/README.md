@@ -1,4 +1,8 @@
-# Churros
+---
+modified: 2021-01-10T20:07:43+01:00
+---
+
+# :ballot_box_with_check: Churros
 
 ## Ingredientes
 - 250 g de harina
@@ -13,3 +17,5 @@
 4. Freír con abundante aceite caliente (al freír, hacerles forma de rosca)
 5. Espolvorear azúcar al sacarlos de la sartén
 6. Colocar papel de cocina sobre el plato, para que absorba el exceso de aceite
+
+![Image](./image_picker499066930639682958.jpg)
