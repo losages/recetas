@@ -13,7 +13,7 @@
 * [Escabechado de Boletus Tradicional](escabechado_de_boletus_tradicional/README.md)
 * [Flameado de Plátanos](flameado_de_platanos/README.md)
 * [Flan de Café (Ana Ó.)](flan_de_cafe_ana_o/README.md)
-* [Flan de Huevo](flan_de_huevo/README.md)
+* [☑️ Flan de Huevo](flan_de_huevo/README.md)
 * [Gazpacho de Cañete](gazpacho_de_canete/README.md)
 * [☑️ Lasaña (4-6 personas)](lasana_4-6_personas/README.md)
 * [☑️ Macarrones a la Boloñesa 4 personas (Laura)](macarrones_a_la_bolonesa_4_personas_laura/README.md)
