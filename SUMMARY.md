@@ -24,7 +24,7 @@
 * [Paella 40 personas (Ó.)](paella_40_personas_o/README.md)
 * [Pastel de Puerros](pastel_de_puerros/README.md)
 * [☑️ Pavo con nata](pavo_con_nata/README.md)
-* [☑️ Pimientos rellenos](pimientos_rellenos/README.md)
+* [☑️ Pimientos rellenos](pimientos_rellenos_laura/README.md)
 * [Pochas](pochas/README.md)
 * [Pollo asado (Arguiñano)](pollo_asado_arguinano/README.md)
 * [Quesada (Mili)](quesada_mili/README.md)

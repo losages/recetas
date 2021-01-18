@@ -20,3 +20,5 @@
 8. Sacar del horno, espolvorear el queso para que se derrita y meter al horno de nuevo unos 10 minutos.
 
 Se pueden añadir otros ingredientes como por ejemplo maíz.
+
+![](50ae4d2c-6281-42e2-a76d-c0c247fb0455.jpeg)
