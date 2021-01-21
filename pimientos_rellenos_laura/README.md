@@ -16,7 +16,7 @@
 4. Abrir el pimiento quitándole "la tapa".
 5. Mezclar la soja y el tomate triturado con la cebolla y el calabacín. Añadir sal.
 6. Rellenar el pimiento con el sofrito.
-7. Meter al horno unos 20-25 minutos.
+7. Meter al horno unos 20-25 minutos a 170°C.
 8. Sacar del horno, espolvorear el queso para que se derrita y meter al horno de nuevo unos 10 minutos.
 
 Se pueden añadir otros ingredientes como por ejemplo maíz.
