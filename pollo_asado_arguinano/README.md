@@ -21,3 +21,8 @@ Se le puede poner dentro del pollo: orejones, pimiento...
 7. Cortar en cuartos el pollo y colocarlos en una bandeja. Las patatas se ponen en el centro
 8. Hacer una salsa con el líquido que quede en la bandeja, poniéndolo en una sartén al fuego y añadiendo perejil picado fino
 9. Poner la salsa encima de todo cuando está en la bandeja
+
+Otra manera, a 170-180ºC:
+1. 15 minutos patatas solas
+2. 25 minutos con los muslos de pollo
+3. Darles la vuelta y otros 25 minutos
