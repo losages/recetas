@@ -7,6 +7,7 @@
 * [Brioche con Pepitas de Chocolate (6 personas)](brioche_con_pepitas_de_chocolate_6_personas/README.md)
 * [☑️ Churros](churros/README.md)
 * [Cocido](cocido/README.md)
+* [☑️ Coulant de chocolate (6)](coulant_de_chocolate_6_raciones/README.md)
 * [Crepes (6)](crepes_6/README.md)
 * [Empanada 4-6 personas](empanada_4-6_personas/README.md)
 * [☑️ Empanadillas](empanadillas/README.md)

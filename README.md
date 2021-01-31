@@ -30,6 +30,7 @@
 * [☑️ Bizcocho de Yogurt (Blanca S.L.)](bizcocho_de_yogurt_blanca_sl/README.md)
 * [Brioche con Pepitas de Chocolate (6 personas)](brioche_con_pepitas_de_chocolate_6_personas/README.md)
 * [☑️ Churros](churros/README.md)
+* [☑️ Coulant de chocolate (6)](coulant_de_chocolate_6_raciones/README.md)
 * [Crepes (6)](crepes_6/README.md)
 * [Flameado de Plátanos](flameado_de_platanos/README.md)
 * [☑️ Flan de Café (Ana Ó.)](flan_de_cafe_ana_o/README.md)
