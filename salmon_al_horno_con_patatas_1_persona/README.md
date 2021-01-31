@@ -1,4 +1,4 @@
-# Salmón al horno con patatas, para una persona
+# ☑️ Salmón al horno con patatas, para una persona
 
 ## Ingredientes
 - Salmón fresco en un lomo
