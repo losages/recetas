@@ -21,6 +21,7 @@
 * [Pochas](pochas/README.md)
 * [Pollo asado (Arguiñano)](pollo_asado_arguinano/README.md)
 * [Redondo de Ternera](redondo_de_ternera/README.md)
+* [☑️ Salmón al horno con patatas (1 persona)](salmon_al_horno_con_patatas_1_persona/README.md)
 * [Salmón Encebollado con Arroz Blanco (4 personas, 25 minutos, 410 cal)](salmon_encebollado_con_arroz_blanco_4_personas,_25_minutos,_410_cal/README.md)
 * [Seta de Cardo al Pilpil de Naranja](seta_de_cardo_al_pilpil_de_naranja/README.md)
 * [☑️ Solomillo al hojaldre](solomillo_al_hojaldre/README.md)
