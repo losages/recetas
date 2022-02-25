@@ -25,6 +25,7 @@
 * [Salmón Encebollado con Arroz Blanco (4 personas, 25 minutos, 410 cal)](salmon_encebollado_con_arroz_blanco_4_personas,_25_minutos,_410_cal/README.md)
 * [Seta de Cardo al Pilpil de Naranja](seta_de_cardo_al_pilpil_de_naranja/README.md)
 * [☑️ Solomillo al hojaldre](solomillo_al_hojaldre/README.md)
+* [Spaguetti con espárragos trigueros y gambas](spaguetti_con_esparragos_trigueros_y_gambas/README.md)
 
 #### Postres
 
