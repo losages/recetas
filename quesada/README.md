@@ -16,4 +16,4 @@
 4. Forrar el molde con papel antiadherente y verter la masa que hemos preparado
 5. Cocer al horno a 180ºC unos 60 mins
 
-![[photo_2022-02-26_00-14-48.jpg]]
+![](photo_2022-02-26_00-14-48.jpg)
