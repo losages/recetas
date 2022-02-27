@@ -41,7 +41,7 @@
 * [Magdalenas (8 raciones)](magdalenas_8_raciones/README.md)
 * [Magdalenas (MCarmen A.)](magdalenas_mcarmen_a/README.md)
 * [Muffins (6 personas)](muffins_6_personas/README.md)
-* [☑️ Quesada)](quesada/README.md)
+* [☑️ Quesada](quesada/README.md)
 * [Rocas de Arroz Inflado (4 personas, Arguiñano)](rocas_de_arroz_inflado_4_personas,_arguinano/README.md)
 * [Roscón](roscon/README.md)
 * [Rosquillos de sartén (Angelines T.)](rosquillos_de_sarten_angelines_t/README.md)
