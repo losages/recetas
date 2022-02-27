@@ -29,7 +29,7 @@
 * [☑️ Pimientos rellenos (Laura)](pimientos_rellenos_laura/README.md)
 * [Pochas](pochas/README.md)
 * [Pollo asado (Arguiñano)](pollo_asado_arguinano/README.md)
-* [Quesada (Mili)](quesada_mili/README.md)
+* [☑️ Quesada](quesada/README.md)
 * [Redondo de Ternera](redondo_de_ternera/README.md)
 * [Rocas de Arroz Inflado (4 personas, Arguiñano)](rocas_de_arroz_inflado_4_personas,_arguinano/README.md)
 * [Roscón](roscon/README.md)
