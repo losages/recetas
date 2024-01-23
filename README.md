@@ -4,6 +4,7 @@
 
 #### Primeros y segundos
 
+* [Bimbambum (Inés G.)](bimbambum_ines/README.md)
 * [Base de pizza](base_de_pizza/README.md)
 * [Boletus Escabechados con Naranja (Lourdes C.)](boletus_escabechados_con_naranja_lourdes_c/README.md)
 * [Cocido](cocido/README.md)

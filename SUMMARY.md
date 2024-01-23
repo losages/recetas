@@ -1,7 +1,7 @@
 # Summary
 
 * [Recetas](README.md)
-* [Bimbambum](bimbambum/README.md)
+* [Bimbambum (Inés G.)](bimbambum_ines/README.md)
 * [Base de pizza](base_de_pizza/README.md)
 * [☑️ Bizcocho de Yogurt (Blanca S.L.)](bizcocho_de_yogurt_blanca_sl/README.md)
 * [Boletus Escabechados con Naranja (Lourdes C.)](boletus_escabechados_con_naranja_lourdes_c/README.md)
