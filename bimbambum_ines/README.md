@@ -17,3 +17,5 @@
 5. Al final le pones un huevo frito y, si quieres, la salsa picante de Gochuchang, que está muy rica.
 
 ![Image](./PXL_20240121_143029780.jpg)
+
+![Image](./bimbambum.jpeg)
