@@ -16,6 +16,7 @@
 * [☑️ Macarrones a la Boloñesa 4 personas (Laura)](macarrones_a_la_bolonesa_4_personas_laura/README.md)
 * [☑️ Macarrones con Pesto (6 personas)](macarrones_con_pesto_6_personas/README.md)
 * [Paella 40 personas (Ó.)](paella_40_personas_o/README.md)
+* [☑️ Pastel de Pollo y Pimiento con Tortitas](pastel_de_pollo_y_pimiento_con_tortitas/README.md)
 * [Pastel de Puerros](pastel_de_puerros/README.md)
 * [☑️ Pavo con nata](pavo_con_nata/README.md)
 * [☑️ Pimientos rellenos (Laura)](pimientos_rellenos_laura/README.md)

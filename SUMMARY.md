@@ -25,6 +25,7 @@
 * [Magdalenas (MCarmen A.)](magdalenas_mcarmen_a/README.md)
 * [Muffins (6 personas)](muffins_6_personas/README.md)
 * [Paella 40 personas (Ó.)](paella_40_personas_o/README.md)
+* [☑️ Pastel de Pollo y Pimiento con Tortitas](pastel_de_pollo_y_pimiento_con_tortitas/README.md)
 * [Pastel de Puerros](pastel_de_puerros/README.md)
 * [☑️ Pavo con nata](pavo_con_nata/README.md)
 * [☑️ Pimientos rellenos (Laura)](pimientos_rellenos_laura/README.md)
