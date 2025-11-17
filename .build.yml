@@ -1,0 +1,19 @@
+# remote: Error submitting build job:
+#   input: submit
+#   A paid account is required to use this feature.
+#
+#image: alpine/edge
+#sources:
+#  - https://git.sr.ht/~jartigag/recetas
+#tasks:
+#  - say-hello: |
+#      echo hello
+#  - say-world: |
+#      echo world
+#  - deploy: |
+#      cd receptor
+#      sshopts="ssh -o StrictHostKeyChecking=no"
+#      rsync --rsh="$sshopts" -rP index.html $deploy:/var/www/recetas/
+#      rsync --rsh="$sshopts" -rP dist $deploy:/var/www/recetas/
+#secrets:
+#- 00000000-4538-45dd-a79f-111111111111
