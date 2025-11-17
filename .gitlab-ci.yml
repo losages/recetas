@@ -14,20 +14,20 @@ before_script:
 test:
   stage: test
   script:
-    - gitbook build . public # build to public path
+    - gitbook build . rrrrecetario # build to rrrrecetario path
   only:
     - branches # this job will affect every branch except 'master'
   except:
     - master
 
-# the 'pages' job will deploy and build your site to the 'public' path
+# the 'pages' job will deploy and build your site to the 'rrrrecetario' path
 pages:
   stage: deploy
   script:
-    - gitbook build . public # build to public path
+    - gitbook build . rrrrecetario # build to rrrrecetario path
   artifacts:
     paths:
-      - public
+      - rrrrecetario
     expire_in: 1 week
   only:
     - master # this job will affect only the 'master' branch

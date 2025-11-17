@@ -21,4 +21,4 @@
 
 Se pueden añadir otros ingredientes como por ejemplo maíz.
 
-![](img/50ae4d2c-6281-42e2-a76d-c0c247fb0455.jpeg)
+![](../img/50ae4d2c-6281-42e2-a76d-c0c247fb0455.jpeg)

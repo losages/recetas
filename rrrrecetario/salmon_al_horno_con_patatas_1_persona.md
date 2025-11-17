@@ -19,8 +19,8 @@
 6. Meter al horno durante 20 minutos (a los 10 minutos dar la vuelta a las patatas).
 7. Colocar las porciones de salmón durante 4 minutos, lo justo para cambiar de color.
 
-![](img/f4d49e54-ea5a-486e-8eaa-09f780fc7560.jpeg)
+![](../img/f4d49e54-ea5a-486e-8eaa-09f780fc7560.jpeg)
 
-![](img/ebe18ba8-27b3-495f-80b8-811e8defc888.jpeg)
+![](../img/ebe18ba8-27b3-495f-80b8-811e8defc888.jpeg)
 
-![](img/002c6fd9-cd18-4c26-8bf9-2213c3e06485.jpeg)
+![](../img/002c6fd9-cd18-4c26-8bf9-2213c3e06485.jpeg)

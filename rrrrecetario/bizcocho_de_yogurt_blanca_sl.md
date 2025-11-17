@@ -22,4 +22,4 @@
 
 Sugerencias: se le puede añadir: chocolate, manzana...
 
-![](img/image_picker4789999143512286227.jpg)
+![](../img/image_picker4789999143512286227.jpg)

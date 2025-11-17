@@ -16,6 +16,6 @@
 4. Luego, para montarlo, pones una base de arroz con un chorrito de aceite de sésamo, las verduras y la carne y un poco de lechuga o espinacas cortaditas.
 5. Al final le pones un huevo frito y, si quieres, la salsa picante de Gochuchang, que está muy rica.
 
-![](img/PXL_20240121_143029780.jpg)
+![](../img/PXL_20240121_143029780.jpg)
 
-![](img/bimbambum.jpeg)
+![](../img/bimbambum.jpeg)

@@ -19,4 +19,4 @@
 5. Espolvorear la mitad del queso sobre la base de tortitas, agregar el salteado y presionar un poco. Espolvorear la otar mitad encima.
 6. Meter el psatel a 180ºC en el horno durante 30 mins (debe haberse precalentado antes). Dejar reposar unos 5 mins antes de servir.
 
-![](img/pastel_de_pollo_y_pimiento_con_tortitas.jpeg)
+![](../img/pastel_de_pollo_y_pimiento_con_tortitas.jpeg)

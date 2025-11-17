@@ -14,4 +14,4 @@
 3. Freír las gambas, ajos y espárragos
 4. Mezclar todo y añadir perejil y aceite (si se quiere también queso y pimienta)
 
-![](img/photo_2022-02-25_19-41-37.jpg)
+![](../img/photo_2022-02-25_19-41-37.jpg)

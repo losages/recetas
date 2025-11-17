@@ -21,4 +21,4 @@ En un txikibol,
 8. Verter proteína de vainilla con agua
 9. Desayunar
 
-![](img/PXL_20241117_092700787.jpg)
+![](../img/PXL_20241117_092700787.jpg)

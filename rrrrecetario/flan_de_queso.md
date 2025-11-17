@@ -18,4 +18,4 @@
 5. Vertir la mezcla en el molde caramelizado y hornear durante 1 hora al baño maría o hasta que un cuchillo pinchado en el centro salga limpio.
 6. Sacar del horno y dejar enfriar varias horas (preferiblemente, toda la noche en la nevera).
 
-![](img/photo_2021-03-22_17-09-39.jpg)
+![](../img/photo_2021-03-22_17-09-39.jpg)

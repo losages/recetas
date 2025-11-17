@@ -14,4 +14,4 @@
 3. Cocer con el vino
 4. Añadir nata, pasas y orejones
 
-![](img/image_picker9072254078718548715.jpg)
+![](../img/image_picker9072254078718548715.jpg)

@@ -18,4 +18,4 @@ Para el pesto de avellanas:
 4. Mientras, mezclar el pesto con los tomates lavados y cortados por la mitad.
 5. Una vez cocida la pasta, pasarla rápidamente por agua fría y mezclarla con el pesto y las tomates.
 6. Servirlo frío.
-![](img/image_picker1234.jpg)
+![](../img/image_picker1234.jpg)

@@ -14,4 +14,4 @@
 5. Espolvorear azúcar al sacarlos de la sartén
 6. Colocar papel de cocina sobre el plato, para que absorba el exceso de aceite
 
-![](img/image_picker499066930639682958.jpg)
+![](../img/image_picker499066930639682958.jpg)

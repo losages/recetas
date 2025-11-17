@@ -22,4 +22,4 @@
 10. Meter al horno durante 11 minutos
 11. Se puede combinar con helado de vainilla, mermelada de fresa... Servir caliente
 
-![](img/718fc565-c0f1-43bf-9350-8ede7ca3f47a.jpeg)
+![](../img/718fc565-c0f1-43bf-9350-8ede7ca3f47a.jpeg)

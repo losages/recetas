@@ -39,6 +39,6 @@ Bechamel:
     8. Placa de lasaña
     9. Capa de bechamel
     10. Queso rallado
-![](img/image_picker8262316937247620037.jpg)
+![](../img/image_picker8262316937247620037.jpg)
 11. Cocer al horno a 220ºC 10 minutos y 3-5 minutos gratinando
-![](img/image_picker5731541715012543875.jpg)
+![](../img/image_picker5731541715012543875.jpg)

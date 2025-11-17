@@ -6,11 +6,11 @@
 - 1 vaso de café de cafetera (200 cl)
 - Caramelo líquido Royal
 
-![](img/MVIMG_20210117_130046_509.jpg)
+![](../img/MVIMG_20210117_130046_509.jpg)
 
 ## Preparación
 1. Disolver en una olla el preparado de flan Royal con la leche y el café
 2. Cocinar a fuego lento hasta que hierva (removiendo continuamente)
 3. Verter en moldes bañados con caramelo y dejar enfriar en el frigorífico (1-3h según molde)
 
-![](img/MVIMG_20210117_145701_240.jpg)
+![](../img/MVIMG_20210117_145701_240.jpg)
