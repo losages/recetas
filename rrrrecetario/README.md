@@ -1,6 +1,6 @@
 [![](../img/cover.jpg)](#recetas)
 
-# [/rrrrecetario]()https://losages.github.io/recetas/rrrrecetario/
+# [/rrrrecetario](https://losages.github.io/recetas/rrrrecetario/)
 
 #### Desayunos
 
