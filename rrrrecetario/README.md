@@ -1,4 +1,4 @@
-[![](img/cover.jpg)](#recetas)
+[![](../img/cover.jpg)](#recetas)
 
 # Recetas
 
