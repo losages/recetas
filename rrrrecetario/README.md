@@ -5,7 +5,7 @@
 #### Desayunos
 
 * [☑️ Bizcocho de Yogurt (Blanca S.L.)](./bizcocho_de_yogurt_blanca_sl.md)
-* [☑️ Bizcocho Realfooder (Carla))](./bizcocho_realfooder_carla.md)
+* [☑️ Bizcocho Realfooder (Carla)](./bizcocho_realfooder_carla.md)
 * [Brioche con Pepitas de Chocolate (6 personas)](./brioche_con_pepitas_de_chocolate_6_personas.md)
 * [☑️ Coulant de chocolate (6)](./coulant_de_chocolate_6_raciones.md)
 * [☑️ Churros](./churros.md)
